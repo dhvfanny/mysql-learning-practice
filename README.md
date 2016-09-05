@@ -1,7 +1,7 @@
 MySQL 学习实战笔记
 ---------------------------
 
-![MySQL image](http://images.51cto.com/files/uploadimg/20100601/1626140.jpg)
+![MySQL image](http://database.ctocio.com.cn/imagelist/2008/024/zv375516840w.jpg)
 
 # 介绍
 
