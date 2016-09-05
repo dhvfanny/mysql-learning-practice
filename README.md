@@ -1,6 +1,8 @@
 MySQL 学习实战笔记
 ---------------------------
 
+![MySQL image](http://images.51cto.com/files/uploadimg/20100601/1626140.jpg)
+
 # 介绍
 
 本仓库收集了我在学习 MySQL 数据库管理系统时所做的详细笔记，个人觉得比较适合入门者并且希望能够快速掌握基本使用方法的童鞋阅读。你也可以在我的个人博客中阅读该系列笔记，[传送门在此](http://blog.chriscabin.com/database/mysql)。
