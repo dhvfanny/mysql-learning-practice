@@ -14,9 +14,9 @@ MySQL 学习实战笔记
 因为我想要督促自己认认真真写笔记，同时也方便后期汇总整理。
 
 # 目录
-- [MySQL 学习实战笔记（一）]()
-- [MySQL 学习实战笔记（二）]()
-- [MySQL 学习实战笔记（三）]()
+- [MySQL 学习实战笔记（一）](https://github.com/ChrisLeeGit/mysql-learning-practice/blob/master/notes/1.md)
+- [MySQL 学习实战笔记（二）](https://github.com/ChrisLeeGit/mysql-learning-practice/blob/master/notes/2.md)
+- [MySQL 学习实战笔记（三）](https://github.com/ChrisLeeGit/mysql-learning-practice/blob/master/notes/3.md)
 
 # 许可
 
