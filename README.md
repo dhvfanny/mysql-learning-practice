@@ -17,6 +17,7 @@ MySQL 学习实战笔记
 - [MySQL 学习实战笔记（一）](https://github.com/ChrisLeeGit/mysql-learning-practice/blob/master/notes/1.md)
 - [MySQL 学习实战笔记（二）](https://github.com/ChrisLeeGit/mysql-learning-practice/blob/master/notes/2.md)
 - [MySQL 学习实战笔记（三）](https://github.com/ChrisLeeGit/mysql-learning-practice/blob/master/notes/3.md)
+- [MySQL 学习实战笔记（四）](https://github.com/ChrisLeeGit/mysql-learning-practice/blob/master/notes/4.md)
 
 # 许可
 
